@@ -1,4 +1,4 @@
 # Hi there 👋
 
 Welcome to my GitHub profile!
-![GitLab](https://images.unsplash.com/photo-1531030874896-fdef6826f2f7)
+![Code](https://cdn.pixabay.com/photo/2017/09/05/10/20/business-2717066_960_720.jpg)
