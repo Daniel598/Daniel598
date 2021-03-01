@@ -6,8 +6,8 @@
 
 ## 📈 GitHub Stats
 <a href="#">
-  <img width=100% src="https://read-github-stats.vercel.app/api?username=daniel598&show_icons=true" />
+  <img align=top src="https://read-github-stats.vercel.app/api?username=daniel598&show_icons=true&custom_title=Contributions" />
 </a>
 <a href="#">
-  <img width=100% src="https://read-github-stats.vercel.app/api/top-langs/?username=daniel598&card_width=495&layout=compact" />
+  <img align=top src="https://read-github-stats.vercel.app/api/top-langs/?username=daniel598&card_width=495&layout=compact" />
 </a>
