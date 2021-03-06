@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 * 📚 Student
-* 💻 Webdesigner
+* 💻 Web designer and developer
 * 🖥️ Programmer
 * ⌨️ Competitive Typist
 
