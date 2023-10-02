@@ -1,7 +1,5 @@
 # 👨‍💻 About Me
-* 📚 Student
-* 💻 Web designer and developer
-* 🖥️ Programmer
+* 📚 Master's Student in Media and Interaction Design
 * ⌨️ Competitive Typist
 
 ## 📈 GitHub Stats
