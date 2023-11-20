@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-* 🇳🇴 Based in Norway
+* 🏔️ Based in Norway
 * 📚 Master's Student in Media and Interaction Design
 * ⌨️ Competitive Typist
 
